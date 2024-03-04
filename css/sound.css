@@ -20,3 +20,8 @@ body {
     color: rgb(255, 255, 255);
     cursor: pointer;
 }
+
+
+.btn:hover {
+    opacity: 0.9;
+}
