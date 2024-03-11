@@ -1,6 +1,6 @@
 
 :root {
-    --primarry-color: rgb(48, 51, 107);
+    --primary-color: rgb(48, 51, 107);
     --secondary-color: #be2edd;
     --modal-duration: 1s;
 }
@@ -62,3 +62,9 @@ nav ul li:nth-of-type(1) {
     border-top: 2px solid rgba(200, 200, 200, 0.1);
 }
 
+header {
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 130%;
+    position: relative;
+}
