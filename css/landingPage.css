@@ -1,14 +1,14 @@
 
+:root {
+    --primarry-color: rgb(48, 51, 107);
+    --secondary-color: #be2edd;
+    --modal-duration: 1s;
+}
 
 
-
-
-
-
-
-
-
-
+* {
+    box-sizing: border-box;
+}
 
 body {
     margin: 0;
